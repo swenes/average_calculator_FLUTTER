@@ -1,16 +1,3 @@
-# average_calculator
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1667481853](https://user-images.githubusercontent.com/75016140/199736090-c84b7b83-ab23-4351-bd72-20b6ed289ebb.png)
+![Screenshot_1667481868](https://user-images.githubusercontent.com/75016140/199736097-09326f28-8bf3-477a-ac8a-17d5dc4ba1b4.png)
+![Screenshot_1667481895](https://user-images.githubusercontent.com/75016140/199736101-89d9e91b-d599-4565-bd62-73ba9cf8c50b.png)
